@@ -7,16 +7,13 @@
 
 <img src="vinny.png.png" width="250">
 
-### The Boss of the Whale Culture Ecosystem
 
 </div>
 ![VINNY](vinny.png.png)
 
 **VINNY — The Boss of the Whale Culture Ecosystem**
 
-![Network](https://img.shields.io/badge/network-Solana-blue)
-![Supply](https://img.shields.io/badge/supply-1B-green)
-![Type](https://img.shields.io/badge/type-Meme%20Token-purple)
+
 
 ---
 
