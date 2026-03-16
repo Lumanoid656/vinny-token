@@ -61,7 +61,7 @@ The ecosystem currently includes two primary tokens:
 **VINNY**
 The strategic leader and central token of the ecosystem.
 
-cryptowhale.png.png
+![Cryptowhale](cryptowhale.png.png)
 
 **CRYPTOWHALE**
 The market-moving whale representing liquidity and trading power.
