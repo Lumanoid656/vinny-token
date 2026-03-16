@@ -61,7 +61,7 @@ VINNY was created with transparency and security in mind.
 
 ---
 
-## Whale Culture Ecosystem
+
 ## Whale Culture Ecosystem
 
 <div align="center">
