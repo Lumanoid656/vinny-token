@@ -1,8 +1,6 @@
-![VINNY](vinny.png.png)
-
 # VINNY
 
-![VINNY Banner](images/vinny-banner.png)
+![VINNY](vinny.png.png)
 
 **VINNY — The Boss of the Whale Culture Ecosystem**
 
