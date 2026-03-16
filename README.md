@@ -101,7 +101,7 @@ Chart will be available once liquidity is live.
 VINNY Contract Address:
 
 ```
-ADD_CONTRACT_ADDRESS_HERE
+7ReCEbxJeedpe6CftyY4EMeD6tFGwFSe9mdy1sYd5hgv
 ```
 
 ---
@@ -110,8 +110,8 @@ ADD_CONTRACT_ADDRESS_HERE
 
 Follow the Whale Culture ecosystem for updates.
 
-Twitter / X: *(add link)*
-Telegram: *(add link)*
+Twitter / X: https://x.com/Luma1860434
+
 
 ---
 
