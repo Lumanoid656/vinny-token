@@ -57,6 +57,7 @@ VINNY was created with transparency and security in mind.
 ## Whale Culture Ecosystem
 
 The ecosystem currently includes two primary tokens:
+![VINNY](vinny.png.png)
 
 **VINNY**
 The strategic leader and central token of the ecosystem.
