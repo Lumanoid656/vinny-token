@@ -1,5 +1,15 @@
+![Network](https://img.shields.io/badge/network-Solana-blue)
+![Supply](https://img.shields.io/badge/supply-1B-green)
+![Type](https://img.shields.io/badge/type-Meme%20Token-purple)
+![Status](https://img.shields.io/badge/status-Live-success)
 # VINNY
+<div align="center">
 
+<img src="vinny.png.png" width="250">
+
+### The Boss of the Whale Culture Ecosystem
+
+</div>
 ![VINNY](vinny.png.png)
 
 **VINNY — The Boss of the Whale Culture Ecosystem**
@@ -55,7 +65,16 @@ VINNY was created with transparency and security in mind.
 ---
 
 ## Whale Culture Ecosystem
+## Whale Culture Ecosystem
 
+<div align="center">
+
+<img src="cryptowhale.png.png" width="250">
+
+</div>
+
+VINNY – The Boss  
+CRYPTOWHALE – The Market Whale
 The ecosystem currently includes two primary tokens:
 ![VINNY](vinny.png.png)
 
