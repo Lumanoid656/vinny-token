@@ -66,7 +66,7 @@ VINNY was created with transparency and security in mind.
 
 <div align="center">
 
-<img src="cryptowhale.png.png" width="250">
+
 
 </div>
 
