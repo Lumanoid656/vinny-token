@@ -1,3 +1,5 @@
+![VINNY](vinny.png.png)
+
 # VINNY
 
 ![VINNY Banner](images/vinny-banner.png)
