@@ -9,7 +9,7 @@
 
 
 </div>
-![VINNY](vinny.png.png)
+
 
 **VINNY — The Boss of the Whale Culture Ecosystem**
 
